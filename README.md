@@ -4,4 +4,4 @@ Implementation of the GLU and Glut OpenGL libraries to add motion to otherwise a
 Built with Visual Studio.
 F1 Toggles the on-screen menu.
 Arrow keys for x and y displacement.
-Page up and page down to toggle speed of blimp and propellors.
+Page up and page down to control speed of blimp and propellors.
