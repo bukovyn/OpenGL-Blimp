@@ -90,9 +90,7 @@ CubeMesh *createCube()
 	return newCube;
 }
 
-// Given a cube mesh, compute it's current bounding box and return in vectors min and max
-// i.e. compute min.x,min.y,mi.z,max.x,max.y,max.z
-// Use this function for collision detection of cube and walls/floor
+//Collision detection (Not implemented)
 void getBBox(CubeMesh *cube, VECTOR3D *min, VECTOR3D *max)
 {
 
