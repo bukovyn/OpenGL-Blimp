@@ -37,7 +37,7 @@ GLfloat light_diffuse[] = { 1.0, 1.0, 1.0, 1.0 };
 GLfloat light_specular[] = { 1.0, 1.0, 1.0, 1.0 };
 GLfloat light_ambient[] = { 0.2, 0.2, 0.2, 1.0 };
 
-// Set up lighting/shading and material properties for submarine - upcoming lecture
+// Set up lighting/shading and material properties for submarine
 GLfloat submarine_mat_ambient[] = { 0.4, 0.2, 0.0, 1.0 };
 GLfloat submarine_mat_specular[] = { 0.1, 0.1, 0.0, 1.0 };
 GLfloat submarine_mat_diffuse[] = { 0.9, 0.5, 0.0, 1.0 };
